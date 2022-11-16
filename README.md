@@ -1,6 +1,7 @@
 # media-querys
 Guia de Media-querys
 
+```
 /* (320x480) iPhone (Original, 3G, 3GS) */
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     /* insert styles here */
@@ -90,5 +91,6 @@ Guia de Media-querys
 @media only screen and (min-device-width: 1536px) and (max-device-width: 2048px) {
     /* insert styles here */
 }
+```
 
 Props to Mikodes - https://gist.github.com/Mikodes
